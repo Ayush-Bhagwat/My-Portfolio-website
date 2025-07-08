@@ -26,7 +26,8 @@ https://ayushbhagwatportfolio.vercel.app/
 
 ## 📸 Screenshots
 
-![Screenshot](path/to/screenshot.png)
+![image](https://github.com/user-attachments/assets/5f818f9a-c3f1-41e8-83a1-52cab1c885d8)
+
 
 ## 🔧 Installation
 
